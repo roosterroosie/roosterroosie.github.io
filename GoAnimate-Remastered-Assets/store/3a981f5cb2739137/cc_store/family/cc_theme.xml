@@ -23474,8 +23474,30 @@
         <state id="talk_sad" filename="talk_sad.swf"/>
         <state id="taunt" filename="run03.swf"/>
         <state id="yawn" filename="desperate.swf"/>
+    </component>	
+    <component type="mouth" id="2009" path="2009" name="2009" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="angry" filename="angry.swf"/>
+        <state id="chewing" filename="stand02.swf"/>
+        <state id="cry" filename="cry.swf"/>
+        <state id="default" filename="default.swf"/>
+	<state id="default2" filename="default2.swf"/>
+	<state id="default3" filename="default3.swf"/>
+        <state id="happy" filename="happy.swf"/>
+        <state id="laugh" filename="laugh.swf"/>
+        <state id="sad" filename="confused.swf"/>
+        <state id="schemeing" filename="laugh.swf"/>
+        <state id="shock" filename="shock.swf"/>
+        <state id="sick" filename="sick.swf"/>
+	<state id="smilealt" filename="happy.swf"/>
+        <state id="surprised" filename="surprised.swf"/>
+        <state id="talk_a" filename="talk.swf"/>
+        <state id="talk_angry" filename="talk_angry.swf"/>
+        <state id="talk_b" filename="talk.swf"/>
+        <state id="talk_happy" filename="talk_happy.swf"/>
+        <state id="talk_sad" filename="talk_sad.swf"/>
+        <state id="taunt" filename="run03.swf"/>
+        <state id="yawn" filename="desperate.swf"/>
     </component>
-	<!--
     <component type="mouth" id="009a" path="009a" name="009a" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="angry" filename="angry.swf"/>
         <state id="chewing" filename="stand02.swf"/>
@@ -23596,13 +23618,37 @@
         <state id="taunt" filename="run03.swf"/>
         <state id="yawn" filename="desperate.swf"/>
     </component>
-	-->
     <component type="mouth" id="201" path="201" name="201" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="angry" filename="angry.swf"/>
         <state id="chewing" filename="chewing.swf"/>
         <state id="cry" filename="cry.swf"/>
         <state id="default" filename="default.swf"/>
 	<state id="default2" filename="default_2.swf"/>
+	<state id="default3" filename="default3.swf"/>
+        <state id="happy" filename="happy.swf"/>
+        <state id="laugh" filename="laugh.swf"/>
+        <state id="sad" filename="sad.swf"/>
+        <state id="schemeing" filename="schemeing.swf"/>
+        <state id="shock" filename="shock.swf"/>
+        <state id="sick" filename="sick.swf"/>
+	<state id="smile" filename="smile.swf"/>
+	<state id="smilealt" filename="happy.swf"/>
+        <state id="surprised" filename="surprised.swf"/>
+        <state id="talk_a" filename="talk_a.swf"/>
+        <state id="talk_angry" filename="talk_angry.swf"/>
+        <state id="talk_b" filename="talk_b.swf"/>
+        <state id="talk_happy" filename="talk_happy.swf"/>
+        <state id="talk_sad" filename="talk_sad.swf"/>
+        <state id="taunt" filename="taunt.swf"/>
+        <state id="yawn" filename="yawn.swf"/>
+    </component>
+    <component type="mouth" id="099k" path="099k" name="099k" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="angry" filename="angry.swf"/>
+        <state id="chewing" filename="chewing.swf"/>
+        <state id="cry" filename="cry.swf"/>
+        <state id="default" filename="default.swf"/>
+	<state id="default2" filename="default_2.swf"/>
+	<state id="default3" filename="default3.swf"/>
         <state id="happy" filename="happy.swf"/>
         <state id="laugh" filename="laugh.swf"/>
         <state id="sad" filename="sad.swf"/>
@@ -23627,6 +23673,7 @@
         <state id="default" filename="default.swf"/>
 	<state id="default2" filename="default_2.swf"/>
 	<state id="default_3" filename="default_3.swf"/>
+	<state id="default3" filename="default3.swf"/>
         <state id="happy" filename="happy.swf"/>
         <state id="laugh" filename="laugh.swf"/>
         <state id="sad" filename="sad.swf"/>
@@ -23651,6 +23698,7 @@
         <state id="default" filename="default.swf"/>
 	<state id="default2" filename="default.swf"/>
 	<state id="default_3" filename="default.swf"/>
+	<state id="default3" filename="default3.swf"/>
         <state id="happy" filename="happy.swf"/>
         <state id="laugh" filename="laugh.swf"/>
         <state id="sad" filename="sad.swf"/>
@@ -23763,6 +23811,155 @@
 	<state id="default2" filename="default_2.swf"/>
 	<state id="default_3" filename="default_3.swf"/>
 	<state id="default_4" filename="default_4.swf"/>
+	<state id="default3" filename="default3.swf"/>
+        <state id="happy" filename="happy.swf"/>
+        <state id="laugh" filename="laugh.swf"/>
+        <state id="sad" filename="sad.swf"/>
+	<state id="sad_grin" filename="sad_grin.swf"/>
+        <state id="schemeing" filename="schemeing.swf"/>
+        <state id="shock" filename="shock.swf"/>
+	<state id="shock02" filename="shock02.swf"/>
+	<state id="shock03" filename="shock_03.swf"/>
+	<state id="shockgrin" filename="shockgrin.swf"/>
+        <state id="sick" filename="sick.swf"/>
+	<state id="smile" filename="smile.swf"/>
+	<state id="smile02" filename="smile_animated.swf"/>
+	<state id="smilealt" filename="smilealt.swf"/>
+        <state id="surprised" filename="surprised.swf"/>
+	<state id="surprised_02" filename="surprised_02.swf"/>
+        <state id="talk_a" filename="talk_a.swf"/>
+        <state id="talk_angry" filename="talk_angry.swf"/>
+        <state id="talk_b" filename="talk_b.swf"/>
+        <state id="talk_happy" filename="talk_happy.swf"/>
+        <state id="talk_sad" filename="talk_sad.swf"/>
+        <state id="taunt" filename="taunt.swf"/>
+        <state id="yawn" filename="yawn.swf"/>
+    </component>
+    <component type="mouth" id="001a" path="001a" name="001a" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="angry" filename="angry.swf"/>
+	<state id="angry_grin" filename="angry_grin.swf"/>
+        <state id="chewing" filename="chewing.swf"/>
+        <state id="cry" filename="cry.swf"/>
+        <state id="default" filename="default.swf"/>
+        <state id="happy" filename="happy.swf"/>
+        <state id="laugh" filename="laugh.swf"/>
+        <state id="sad" filename="sad.swf"/>
+	<state id="sad_grin" filename="sad_grin.swf"/>
+        <state id="schemeing" filename="schemeing.swf"/>
+        <state id="shock" filename="shock.swf"/>
+	<state id="shock02" filename="shock02.swf"/>
+	<state id="shock03" filename="shock_03.swf"/>
+	<state id="shockgrin" filename="shockgrin.swf"/>
+        <state id="sick" filename="sick.swf"/>
+	<state id="smile" filename="smile.swf"/>
+	<state id="smile02" filename="smile_animated.swf"/>
+	<state id="smilealt" filename="smilealt.swf"/>
+        <state id="surprised" filename="surprised.swf"/>
+	<state id="surprised_02" filename="surprised_02.swf"/>
+        <state id="talk_a" filename="talk_a.swf"/>
+        <state id="talk_angry" filename="talk_angry.swf"/>
+        <state id="talk_b" filename="talk_b.swf"/>
+        <state id="talk_happy" filename="talk_happy.swf"/>
+        <state id="talk_sad" filename="talk_sad.swf"/>
+        <state id="taunt" filename="taunt.swf"/>
+        <state id="yawn" filename="yawn.swf"/>
+    </component>
+    <component type="mouth" id="001b" path="001b" name="001b" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="angry" filename="angry.swf"/>
+	<state id="angry_grin" filename="angry_grin.swf"/>
+        <state id="chewing" filename="chewing.swf"/>
+        <state id="cry" filename="cry.swf"/>
+        <state id="default" filename="default.swf"/>
+	<state id="default3" filename="default3.swf"/>
+        <state id="happy" filename="happy.swf"/>
+        <state id="laugh" filename="laugh.swf"/>
+        <state id="sad" filename="sad.swf"/>
+	<state id="sad_grin" filename="sad_grin.swf"/>
+        <state id="schemeing" filename="schemeing.swf"/>
+        <state id="shock" filename="shock.swf"/>
+	<state id="shock02" filename="shock02.swf"/>
+	<state id="shock03" filename="shock_03.swf"/>
+	<state id="shockgrin" filename="shockgrin.swf"/>
+        <state id="sick" filename="sick.swf"/>
+	<state id="smile" filename="smile.swf"/>
+	<state id="smile02" filename="smile_animated.swf"/>
+	<state id="smilealt" filename="smilealt.swf"/>
+        <state id="surprised" filename="surprised.swf"/>
+	<state id="surprised_02" filename="surprised_02.swf"/>
+        <state id="talk_a" filename="talk_a.swf"/>
+        <state id="talk_angry" filename="talk_angry.swf"/>
+        <state id="talk_b" filename="talk_b.swf"/>
+        <state id="talk_happy" filename="talk_happy.swf"/>
+        <state id="talk_sad" filename="talk_sad.swf"/>
+        <state id="taunt" filename="taunt.swf"/>
+        <state id="yawn" filename="yawn.swf"/>
+    </component>
+    <component type="mouth" id="001c" path="001c" name="001c" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="angry" filename="angry.swf"/>
+	<state id="angry_grin" filename="angry_grin.swf"/>
+        <state id="chewing" filename="chewing.swf"/>
+        <state id="cry" filename="cry.swf"/>
+        <state id="default" filename="default.swf"/>
+	<state id="default3" filename="default3.swf"/>
+        <state id="happy" filename="happy.swf"/>
+        <state id="laugh" filename="laugh.swf"/>
+        <state id="sad" filename="sad.swf"/>
+	<state id="sad_grin" filename="sad_grin.swf"/>
+        <state id="schemeing" filename="schemeing.swf"/>
+        <state id="shock" filename="shock.swf"/>
+	<state id="shock02" filename="shock02.swf"/>
+	<state id="shock03" filename="shock_03.swf"/>
+	<state id="shockgrin" filename="shockgrin.swf"/>
+        <state id="sick" filename="sick.swf"/>
+	<state id="smile" filename="smile.swf"/>
+	<state id="smile02" filename="smile_animated.swf"/>
+	<state id="smilealt" filename="smilealt.swf"/>
+        <state id="surprised" filename="surprised.swf"/>
+	<state id="surprised_02" filename="surprised_02.swf"/>
+        <state id="talk_a" filename="talk_a.swf"/>
+        <state id="talk_angry" filename="talk_angry.swf"/>
+        <state id="talk_b" filename="talk_b.swf"/>
+        <state id="talk_happy" filename="talk_happy.swf"/>
+        <state id="talk_sad" filename="talk_sad.swf"/>
+        <state id="taunt" filename="taunt.swf"/>
+        <state id="yawn" filename="yawn.swf"/>
+    </component>
+    <component type="mouth" id="001d" path="001d" name="001d" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="angry" filename="angry.swf"/>
+	<state id="angry_grin" filename="angry_grin.swf"/>
+        <state id="chewing" filename="chewing.swf"/>
+        <state id="cry" filename="cry.swf"/>
+        <state id="default" filename="default.swf"/>
+        <state id="happy" filename="happy.swf"/>
+        <state id="laugh" filename="laugh.swf"/>
+        <state id="sad" filename="sad.swf"/>
+	<state id="sad_grin" filename="sad_grin.swf"/>
+        <state id="schemeing" filename="schemeing.swf"/>
+        <state id="shock" filename="shock.swf"/>
+	<state id="shock02" filename="shock02.swf"/>
+	<state id="shock03" filename="shock_03.swf"/>
+	<state id="shockgrin" filename="shockgrin.swf"/>
+        <state id="sick" filename="sick.swf"/>
+	<state id="smile" filename="smile.swf"/>
+	<state id="smile02" filename="smile_animated.swf"/>
+	<state id="smilealt" filename="smilealt.swf"/>
+        <state id="surprised" filename="surprised.swf"/>
+	<state id="surprised_02" filename="surprised_02.swf"/>
+        <state id="talk_a" filename="talk_a.swf"/>
+        <state id="talk_angry" filename="talk_angry.swf"/>
+        <state id="talk_b" filename="talk_b.swf"/>
+        <state id="talk_happy" filename="talk_happy.swf"/>
+        <state id="talk_sad" filename="talk_sad.swf"/>
+        <state id="taunt" filename="taunt.swf"/>
+        <state id="yawn" filename="yawn.swf"/>
+    </component>
+    <component type="mouth" id="001e" path="001e" name="001e" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="angry" filename="angry.swf"/>
+	<state id="angry_grin" filename="angry_grin.swf"/>
+        <state id="chewing" filename="chewing.swf"/>
+        <state id="cry" filename="cry.swf"/>
+        <state id="default" filename="default.swf"/>
+	<state id="default3" filename="default3.swf"/>
         <state id="happy" filename="happy.swf"/>
         <state id="laugh" filename="laugh.swf"/>
         <state id="sad" filename="sad.swf"/>
