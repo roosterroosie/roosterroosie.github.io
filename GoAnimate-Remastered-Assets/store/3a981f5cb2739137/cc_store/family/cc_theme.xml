@@ -1384,7 +1384,7 @@
         <selection type="faceshape" state_id="default"/>
         <selection type="glasses" state_id="default"/>
         <selection type="hair" state_id="default"/>
-        <selection type="mouth" state_id="default3"/>
+        <selection type="mouth" state_id="default2"/>
         <selection type="mustache" state_id="default"/>
         <selection type="nose" state_id="default"/>
     </facial>
@@ -1410,7 +1410,7 @@
         <selection type="faceshape" state_id="default"/>
         <selection type="glasses" state_id="default"/>
         <selection type="hair" state_id="default"/>
-        <selection type="mouth" state_id="default"/>
+        <selection type="mouth" state_id="default3"/>
         <selection type="mustache" state_id="default"/>
         <selection type="nose" state_id="default"/>
     </facial>
@@ -1423,7 +1423,7 @@
         <selection type="faceshape" state_id="default"/>
         <selection type="glasses" state_id="default"/>
         <selection type="hair" state_id="default"/>
-        <selection type="mouth" state_id="default2"/>
+        <selection type="mouth" state_id="default"/>
         <selection type="mustache" state_id="default"/>
         <selection type="nose" state_id="default"/>
     </facial>
@@ -1436,7 +1436,7 @@
         <selection type="faceshape" state_id="default"/>
         <selection type="glasses" state_id="default"/>
         <selection type="hair" state_id="default"/>
-        <selection type="mouth" state_id="default_3"/>
+        <selection type="mouth" state_id="default2"/>
         <selection type="mustache" state_id="default"/>
         <selection type="nose" state_id="default"/>
     </facial>
