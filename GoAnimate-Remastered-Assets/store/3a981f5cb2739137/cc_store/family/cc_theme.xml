@@ -24154,7 +24154,7 @@
         <state id="chewing" filename="chewing.swf"/>
         <state id="cry" filename="cry.swf"/>
         <state id="default" filename="default.swf"/>
-	<state id="default2" filename="default_2.swf"/>
+	<state id="default2" filename="default2.swf"/>
 	<state id="default_3" filename="default_3.swf"/>
 	<state id="default_4" filename="default_4.swf"/>
 	<state id="default3" filename="default3.swf"/>
