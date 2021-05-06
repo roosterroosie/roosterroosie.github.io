@@ -179,7 +179,7 @@
 	    <choice>0x360202</choice>
 	    <choice>0x000000</choice>
 	</color>
-    <facial id="headless" name="! Headless" enable="Y">
+    <facial id="headless" name="! Headless" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -192,7 +192,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="beardonly" name="! Beard only" enable="Y">
+    <facial id="beardonly" name="! Beard only" enable="N">
         <selection type="beard" state_id="default"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -205,7 +205,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="earonly" name="! Ear only" enable="Y">
+    <facial id="earonly" name="! Ear only" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="default"/>
         <selection type="eye" state_id="nothing"/>
@@ -218,7 +218,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyeonly" name="! Eye only" enable="Y">
+    <facial id="eyeonly" name="! Eye only" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="default"/>
@@ -231,7 +231,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyeonly" name="! Eye only neutral" enable="Y">
+    <facial id="eyeonly" name="! Eye only neutral" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="default"/>
@@ -244,7 +244,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyeonly2" name="! Eye only angry" enable="Y">
+    <facial id="eyeonly2" name="! Eye only angry" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="angry"/>
@@ -257,7 +257,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyeonly3" name="! Eye only asleep" enable="Y">
+    <facial id="eyeonly3" name="! Eye only asleep" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="asleep"/>
@@ -270,7 +270,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyeonly4" name="! Eye only cry" enable="Y">
+    <facial id="eyeonly4" name="! Eye only cry" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="cry"/>
@@ -283,7 +283,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyeonly5" name="! Eye only happy" enable="Y">
+    <facial id="eyeonly5" name="! Eye only happy" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="happy"/>
@@ -296,7 +296,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyeonly6" name="! Eye only sad" enable="Y">
+    <facial id="eyeonly6" name="! Eye only sad" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="sad"/>
@@ -309,7 +309,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyeonly7" name="! Eye only schemeing" enable="Y">
+    <facial id="eyeonly7" name="! Eye only schemeing" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="schemeing"/>
@@ -322,7 +322,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyeonly8" name="! Eye only shock" enable="Y">
+    <facial id="eyeonly8" name="! Eye only shock" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="shock"/>
@@ -335,7 +335,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyeonly9" name="! Eye only sick" enable="Y">
+    <facial id="eyeonly9" name="! Eye only sick" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="sick"/>
@@ -348,7 +348,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyeonly10" name="! Eye only thinking" enable="Y">
+    <facial id="eyeonly10" name="! Eye only thinking" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="thinking"/>
@@ -361,7 +361,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyeonly11" name="! Eye only yawn" enable="Y">
+    <facial id="eyeonly11" name="! Eye only yawn" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="yawn"/>
@@ -374,7 +374,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyebrowonly" name="! Eyebrow only neutral" enable="Y">
+    <facial id="eyebrowonly" name="! Eyebrow only neutral" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -387,7 +387,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyebrowonly2" name="! Eyebrow only angry" enable="Y">
+    <facial id="eyebrowonly2" name="! Eyebrow only angry" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -400,7 +400,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyebrowonly3" name="! Eyebrow only cry" enable="Y">
+    <facial id="eyebrowonly3" name="! Eyebrow only cry" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -413,7 +413,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyebrowonly4" name="! Eyebrow only disgusted" enable="Y">
+    <facial id="eyebrowonly4" name="! Eyebrow only disgusted" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -426,7 +426,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyebrowonly5" name="! Eyebrow only happy" enable="Y">
+    <facial id="eyebrowonly5" name="! Eyebrow only happy" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -439,7 +439,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyebrowonly6" name="! Eyebrow only sad" enable="Y">
+    <facial id="eyebrowonly6" name="! Eyebrow only sad" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -452,7 +452,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyebrowonly7" name="! Eyebrow only schemeing" enable="Y">
+    <facial id="eyebrowonly7" name="! Eyebrow only schemeing" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -465,7 +465,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyebrowonly8" name="! Eyebrow only shock" enable="Y">
+    <facial id="eyebrowonly8" name="! Eyebrow only shock" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -478,7 +478,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyebrowonly9" name="! Eyebrow only sick" enable="Y">
+    <facial id="eyebrowonly9" name="! Eyebrow only sick" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -491,7 +491,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyebrowonly10" name="! Eyebrow only surprised" enable="Y">
+    <facial id="eyebrowonly10" name="! Eyebrow only surprised" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -504,7 +504,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyebrowonly11" name="! Eyebrow only talk" enable="Y">
+    <facial id="eyebrowonly11" name="! Eyebrow only talk" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -517,7 +517,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="eyebrowonly12" name="! Eyebrow only yawn" enable="Y">
+    <facial id="eyebrowonly12" name="! Eyebrow only yawn" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -530,7 +530,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="facedecorationonly" name="! Facedecoration only" enable="Y">
+    <facial id="facedecorationonly" name="! Facedecoration only" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -543,7 +543,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="faceshapeonly" name="! Faceshape only" enable="Y">
+    <facial id="faceshapeonly" name="! Faceshape only" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -556,7 +556,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="glassesonly" name="! Glasses only" enable="Y">
+    <facial id="glassesonly" name="! Glasses only" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -569,7 +569,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="haironly" name="! Hair only" enable="Y">
+    <facial id="haironly" name="! Hair only" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -582,7 +582,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="mouthonly" name="! Mouth only neutral" enable="Y">
+    <facial id="mouthonly" name="! Mouth only neutral" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -595,7 +595,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="mouthonly2" name="! Mouth only angry" enable="Y">
+    <facial id="mouthonly2" name="! Mouth only angry" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -608,7 +608,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="mouthonly3" name="! Mouth only chewing" enable="Y">
+    <facial id="mouthonly3" name="! Mouth only chewing" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -621,7 +621,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="mouthonly4" name="! Mouth only cry" enable="Y">
+    <facial id="mouthonly4" name="! Mouth only cry" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -634,7 +634,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="mouthonly5" name="! Mouth only happy" enable="Y">
+    <facial id="mouthonly5" name="! Mouth only happy" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -647,7 +647,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="mouthonly6" name="! Mouth only laugh" enable="Y">
+    <facial id="mouthonly6" name="! Mouth only laugh" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -660,7 +660,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="mouthonly7" name="! Mouth only sad" enable="Y">
+    <facial id="mouthonly7" name="! Mouth only sad" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -673,7 +673,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="mouthonly8" name="! Mouth only schemeing" enable="Y">
+    <facial id="mouthonly8" name="! Mouth only schemeing" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -686,7 +686,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="mouthonly9" name="! Mouth only shock" enable="Y">
+    <facial id="mouthonly9" name="! Mouth only shock" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -699,7 +699,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="mouthonly10" name="! Mouth only sick" enable="Y">
+    <facial id="mouthonly10" name="! Mouth only sick" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -712,7 +712,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="mouthonly11" name="! Mouth only surprised" enable="Y">
+    <facial id="mouthonly11" name="! Mouth only surprised" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -725,7 +725,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="mouthonly12" name="! Mouth only talk_a" enable="Y">
+    <facial id="mouthonly12" name="! Mouth only talk_a" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -738,7 +738,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="mouthonly13" name="! Mouth only talk_b" enable="Y">
+    <facial id="mouthonly13" name="! Mouth only talk_b" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -751,7 +751,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="mouthonly14" name="! Mouth only talk_angry" enable="Y">
+    <facial id="mouthonly14" name="! Mouth only talk_angry" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -764,7 +764,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="mouthonly15" name="! Mouth only talk_happy" enable="Y">
+    <facial id="mouthonly15" name="! Mouth only talk_happy" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -777,7 +777,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="mouthonly16" name="! Mouth only talk_sad" enable="Y">
+    <facial id="mouthonly16" name="! Mouth only talk_sad" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -790,7 +790,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="mouthonly17" name="! Mouth only taunt" enable="Y">
+    <facial id="mouthonly17" name="! Mouth only taunt" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -803,7 +803,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="mouthonly18" name="! Mouth only yawn" enable="Y">
+    <facial id="mouthonly18" name="! Mouth only yawn" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -816,7 +816,7 @@
         <selection type="mustache" state_id="nothing"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="mustacheonly" name="! Mustache only" enable="Y">
+    <facial id="mustacheonly" name="! Mustache only" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
@@ -829,7 +829,7 @@
         <selection type="mustache" state_id="default"/>
         <selection type="nose" state_id="nothing"/>
     </facial>
-    <facial id="noseonly" name="! Nose only" enable="Y">
+    <facial id="noseonly" name="! Nose only" enable="N">
         <selection type="beard" state_id="nothing"/>
         <selection type="ear" state_id="nothing"/>
         <selection type="eye" state_id="nothing"/>
