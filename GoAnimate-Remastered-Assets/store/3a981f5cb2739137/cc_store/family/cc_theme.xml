@@ -9021,23 +9021,23 @@
   <color r="ccMustache">0x8B6F18</color>
   <color r="ccBeard">0xC29B22</color>
   <color r="ccEyebrow">0x000000</color>
-  <color r="ccHairMajor">0xB97B3E</color>
+  <color r="ccHairMajor">0xFD8413</color>
   <color r="ccHairMinor">0x8B6F18</color>
-  <color r="ccUpperMain" oc="0x336699">0xFF6666</color>
-  <color r="ccUpperMinor" oc="0xE5E5E5">0xFF6666</color>
-  <color r="ccLowerMain" oc="0xCCBC9A">0xFF6666</color>
-  <color r="ccLowerMinor" oc="0xEEEEEE">0xFF9999</color>
+  <color r="ccUpperMain" oc="0x336699">0x37B9EC</color>
+  <color r="ccUpperMinor" oc="0xE5E5E5">0x37B9EC</color>
+  <color r="ccLowerMain" oc="0xCCBC9A">0x37B9EC</color>
+  <color r="ccLowerMinor" oc="0xEEEEEE">0x37B9EC</color>
   <component type="bodyshape" component_id="eve" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/>
   <component type="skeleton" component_id="eve_001" theme_id="family" x="0" y="0" xscale="1" yscale="1" offset="0" rotation="0"/>
-  <component type="mouth" component_id="101" theme_id="family" x="0" y="0" xscale="0.9" yscale="0.9" offset="0" rotation="0"/>
-  <component type="upper_body" component_id="eve_003" theme_id="family" x="0" y="0" xscale="0.9" yscale="0.9" offset="0" rotation="0"/>
-  <component type="lower_body" component_id="eve_002" theme_id="family" x="0" y="0" xscale="0.9" yscale="0.9" offset="0" rotation="0"/>
-  <component type="faceshape" component_id="034" theme_id="family" x="0" y="1" xscale="0.99" yscale="0.95" offset="0" rotation="0"/>
-  <component type="hair" component_id="059" theme_id="family" x="-1" y="3" xscale="0.95" yscale="0.95" offset="0" rotation="0"/>
-  <component type="ear" component_id="007" theme_id="family" x="-2" y="0" xscale="0.9" yscale="0.9" offset="0" rotation="0"/>
+  <component type="mouth" component_id="201" theme_id="family" x="0" y="0" xscale="0.9" yscale="0.9" offset="0" rotation="0"/>
+  <component type="upper_body" component_id="eve_010" theme_id="family" x="0" y="0" xscale="0.9" yscale="0.9" offset="0" rotation="0"/>
+  <component type="lower_body" component_id="eve_004" theme_id="family" x="0" y="0" xscale="0.9" yscale="0.9" offset="0" rotation="0"/>
+  <component type="faceshape" component_id="037" theme_id="family" x="0" y="1" xscale="0.99" yscale="0.95" offset="0" rotation="0"/>
+  <component type="hair" component_id="048" theme_id="family" x="-1" y="3" xscale="0.95" yscale="0.95" offset="0" rotation="0"/>
+  <component type="ear" component_id="002" theme_id="family" x="-2" y="0" xscale="0.9" yscale="0.9" offset="0" rotation="0"/>
   <component type="eyebrow" component_id="108" theme_id="family" x="0" y="6" xscale="0.9" yscale="0.9" offset="0" rotation="0"/>
   <component type="nose" component_id="014" theme_id="family" x="-2" y="0" xscale="0.9" yscale="0.9" offset="0" rotation="0"/>
-  <component type="eye" component_id="206" theme_id="family" x="0" y="5" xscale="0.84" yscale="0.9" offset="0" rotation="0"/>
+  <component type="eye" component_id="009" theme_id="family" x="0" y="5" xscale="0.84" yscale="0.9" offset="0" rotation="0"/>
         </default_char>
 		<action id="stand" name="Stand 1" loop="Y" totalframe="1" enable="Y" is_motion="N">
             <selection type="facial" facial_id="head_neutral"/>
@@ -23912,16 +23912,16 @@
         <state id="asleep" filename="asleep.swf"/>
         <state id="cry" filename="cry.swf"/>
         <state id="default" filename="default.swf"/>
-	<state id="default_2" filename="default_2.swf"/>
+    	<state id="default_2" filename="default_2.swf"/>
         <state id="happy" filename="happy.swf"/>
         <state id="sad" filename="sad.swf"/>
         <state id="nothing" filename="nothing.swf"/>
         <state id="schemeing" filename="schemeing.swf"/>
         <state id="shock" filename="shock.swf"/>
         <state id="sick" filename="sick.swf"/>
-	<state id="terrified" filename="terrified.swf"/>  
+	    <state id="terrified" filename="terrified.swf"/>  
         <state id="thinking" filename="thinking.swf"/>
-	<state id="wink" filename="wink.swf"/>
+    	<state id="wink" filename="wink.swf"/>
         <state id="yawn" filename="yawn.swf"/>
     </component>
     <component type="eye" id="102a" path="102a" name="102a" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -23935,7 +23935,7 @@
         <state id="nothing" filename="nothing.swf"/>
         <state id="shock" filename="shock.swf"/>
         <state id="sick" filename="sick.swf"/>
-	<state id="terrified" filename="shock.swf"/>  
+    	<state id="terrified" filename="shock.swf"/>  
         <state id="thinking" filename="thinking.swf"/>
         <state id="yawn" filename="yawn.swf"/>
     </component>
@@ -23956,7 +23956,7 @@
     <component type="eye" id="001" path="001" name="001" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="angry" filename="angry.swf"/>
         <state id="asleep" filename="asleep.swf"/>
-	<state id="asleep_happy" filename="asleep_happy.swf"/>
+	    <state id="asleep_happy" filename="asleep_happy.swf"/>
         <state id="cry" filename="cry.swf"/>
         <state id="default" filename="default.swf"/>
         <state id="happy" filename="happy.swf"/>
@@ -23966,7 +23966,7 @@
         <state id="shock" filename="shock.swf"/>
         <state id="sick" filename="sick.swf"/>
         <state id="thinking" filename="thinking.swf"/>
-	<state id="wink" filename="wink.swf"/>
+    	<state id="wink" filename="wink.swf"/>
         <state id="yawn" filename="yawn.swf"/>
     </component>
     <component type="eye" id="001b" path="001b" name="001b" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
